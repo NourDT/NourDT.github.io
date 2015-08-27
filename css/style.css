@@ -43,7 +43,7 @@ html, body {
   border-bottom: 20px solid #162229;
 }
 .loader .getting-there {
-  margin-bottom: -50%;
+  margin-bottom: -70%;
     width: 120%;
   text-align: center;
   position: absolute;
@@ -241,9 +241,10 @@ color: white;
   }
 }
  
-/*
+
 footer {
     clear:both;
+    margin-top: 5%;
     
 }
 footer .container{
@@ -270,7 +271,7 @@ footer .container{
 }
 
 .nav-footer a {
-    color:#999;
+    color:#fff;
     transition:color .25s ease-in-out;
     -moz-transition:color .25s ease-in-out;
     -o-transition:color .25s ease-in-out;
@@ -279,4 +280,4 @@ footer .container{
 
 .nav-footer a:hover {
     color:#1eadef
-}*/
+}
